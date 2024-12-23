@@ -1,0 +1,59 @@
+# Ignore build directories
+Project0/build/
+Project1/build/
+Project2/build/
+Project3/build/
+
+# Ignore compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.cmake
+*.bin
+*.ts
+*.make
+*.out
+*.d
+*.check_cache
+*.internal
+*.yml
+*.console
+*.marks
+Project4/CMakeCache.txt
+Project4/CMakeCCompilerId.c
+Project4/CMakeCXXCompilerId.cpp
+Project4/link.txt
+Project4/Makefile
+Project4/Makefile2
+Project4/TargetDirectories.txt
+
+
+
+
+# Ignore system files
+.DS_Store          # macOS
+Thumbs.db          # Windows
+
+# Ignore log files
+*.log
+
+# Ignore IDE-specific files (example for VSCode, IntelliJ, etc.)
+.vscode/
+.idea/
+
+# Ignore package manager directories (example for npm, Python, etc.)
+node_modules/
+venv/
+.env
+
+# Ignore specific files for certain languages or frameworks
+*.class            # Java
+*.pyc              # Python
+*.pyo              # Python
+*.iml              # IntelliJ IDEA
+*.swp              # vim swap files
