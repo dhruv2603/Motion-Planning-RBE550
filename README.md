@@ -1,6 +1,6 @@
 # Robot Motion Planning and Benchmarking of different Planners
 
-### *RBE550: Motion Plnning - [Worcester Polytechnic Institute](https://www.wpi.edu/), Fall 2024
+### *RBE550: Motion Planning - [Worcester Polytechnic Institute](https://www.wpi.edu/), Fall 2024*
 
 ## Project Guidlines:
 - There are 5 projects each one building on the previous project. 
